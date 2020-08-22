@@ -1,10 +1,11 @@
 ### Hi there <img src="https://camo.githubusercontent.com/5a788104be7d81503c80e70fdab66f9e756e84ee/68747470733a2f2f66696c65732e6161736875746f73682e6465762f6865792e676966" width="32px">
 
 
-I'm Anas
+<h3>
+  Hey y'all, I'm Anas! I'm a Front-end developer
+</h3>
 
 
-<!-- **Meet My STAFF**-->
 <h3> 🛠 &nbsp; Meet My STAFF</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
