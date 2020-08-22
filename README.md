@@ -5,7 +5,7 @@
   Hey y'all, I'm Anas! I'm a Front-end developer
 </h3>
 
-
+<br><br>
 <h3> 🛠 &nbsp; Meet My STAFF</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -18,7 +18,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
-
+<br><br>
 ## GitHub Stats 
 <h3> 📊 &nbsp;GitHub Stats </h3>
 
@@ -29,7 +29,7 @@
 </a>
 </p>
 
-
+<br><br>
 <h3> 🤝🏻 &nbsp;Say Hi to Me </h3>
 
 <p align="center">
