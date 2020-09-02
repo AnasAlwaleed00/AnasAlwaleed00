@@ -10,16 +10,16 @@
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![Sass](https://img.shields.io/badge/-CSS-000000?style=flat&logo=Sass)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![Sass](https://img.shields.io/badge/-SASS-000000?style=flat&logo=Sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![VueJs](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![VueJs](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
 <br>
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 <br><br>
