@@ -10,7 +10,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![VueJs](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 <br>
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
