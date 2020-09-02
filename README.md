@@ -2,8 +2,12 @@
 
 
 <h3>
-  Hey y'all, I'm Anas! I'm a Front-end developer
+  Hey y'all, I'm Anas!
 </h3>
+<h4> front-end developer </h4>
+<p> 
+I like to code things from scratch, and enjoy bringing ideas to life in the browser. I prefer to keep learning, continue challenging myself, and do interesting things that matter, Well-organised person, with high attention to details, Interested in the entire frontend spectrum and working ambitious projects with positive people.
+</p>
 
 <br><br>
 <h3> 🛠 &nbsp; Meet My STAFF</h3>
