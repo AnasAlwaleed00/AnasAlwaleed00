@@ -2,11 +2,11 @@
 
 
 <h3>
-  I'm Anas!, a front-end developer
+  I'm Anas!, a web developer
 </h3>
  
 <p> 
-I like to code things from scratch, and enjoy bringing ideas to life in the browser. I prefer to keep learning, continue challenging myself, and do interesting things that matter, Well-organised person, with high attention to details, Interested in the entire frontend spectrum and working ambitious projects with positive people.
+I like to code things from scratch, and enjoy bringing ideas to life in the browser. I prefer to keep learning, continue challenging myself, and do interesting things that matter, Well-organised person, with high attention to details, Interested in the entire web spectrum and working ambitious projects with positive people.
 </p>
 
 <br><br>
