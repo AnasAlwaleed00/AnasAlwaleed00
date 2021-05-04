@@ -41,7 +41,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anas-faraj-1722241b0/"><img src="https://img.shields.io/badge/-Anas%20Mustafa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anas-faraj/"><img src="https://img.shields.io/badge/-Anas%Faraj-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anasalwaleed77@gmail.com"><img src="https://img.shields.io/badge/-anasalwaleed77@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/249Anas"> <img src="https://img.shields.io/badge/-@Anas-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/249Anas"><img src="https://img.shields.io/badge/-@Anas-1877F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
